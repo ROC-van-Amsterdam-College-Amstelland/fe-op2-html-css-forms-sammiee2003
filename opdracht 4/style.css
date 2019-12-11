@@ -1,0 +1,40 @@
+body{
+  width: 80% ; 
+  height: 100%; 
+}
+header{
+    height: 25px;
+    width: 70%;
+    background-color: black;
+    color: white;
+    
+}
+div{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    margin-top: 10px;
+}
+p{
+    flex-direction: row;
+    margin: 10px;
+    font-size: 15px;
+}
+.inputlonely{
+    flex-direction: row;
+    height: 20px;
+    width: 500px;
+    
+    
+}
+.div1{
+    height: 30px;
+    width: 80%;
+   padding: 0px;
+}
+
+.samen{
+    height: 20px;
+    width: 40%;
+    margin: 10px;
+}
